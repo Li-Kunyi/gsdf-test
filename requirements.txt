@@ -1,0 +1,8 @@
+open3d==0.10.0
+plyfile
+ninja
+GPUtil
+opencv-python
+lpips
+trimesh
+pyrender
